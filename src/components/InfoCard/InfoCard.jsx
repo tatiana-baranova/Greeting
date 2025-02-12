@@ -17,7 +17,7 @@ const InfoCard = () => {
                 <li className={s.text}>Я дякую тобі за всі подарунки <IoGift size='30' color='red'/></li>
                 <li className={s.text}>Ти частинка мене <IoExtensionPuzzle size='30' color='red'/></li>
                 <li className={s.text}>Ти ліки від смутку <GiLoveInjection size='30' color='red'/></li>
-                <li className={s.text}>Ти мооя батарейка <IoBatteryFull size='30' color='red'/></li>
+                <li className={s.text}>Ти моя батарейка <IoBatteryFull size='30' color='red'/></li>
                 <li className={s.text}>Хочу зранку пити каву разом <IoCafeOutline size='30' color='red'/></li>
                 <li className={s.text}>Хочу з тобою все життя <ImInfinite size='30' color='red'/>
                 </li>
