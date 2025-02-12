@@ -1,9 +1,10 @@
 .title{
+    color: white;
     font-size: 30px;
-  font-weight: 500;
-  font-style: normal;
-  text-align: center;
-  margin-bottom: 6px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 6px;
 }
 .list{
     display: flex;
@@ -17,6 +18,7 @@
 }
 
 .text{
+    color: white;
     font-size: 18px;
     font-weight: 500;
     font-style: normal;

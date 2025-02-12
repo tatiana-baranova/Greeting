@@ -13,6 +13,7 @@
 }
 
 .text{
+    color: white;
     display: flex;
     gap: 3px;
     justify-content: flex-end;
