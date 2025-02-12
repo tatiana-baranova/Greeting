@@ -1,3 +1,15 @@
 .card{
     display: flex;
 }
+
+.header{
+    position: absolute;
+    height: 40px;
+    background-color: #b50606c6;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 3px solid white;
+}

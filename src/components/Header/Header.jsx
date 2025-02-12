@@ -1,9 +1,11 @@
+import { BiSolidBookHeart } from 'react-icons/bi';
 import s from './Header.module.css'
 import { motion } from "framer-motion";
 
 const LoveHeader = () => {
   return (
     <header style={headerStyle}>
+        <div className={s.header}><BiSolidBookHeart size='30' color='white'margin-right='20'/></div>
       <motion.div
         initial={{ opacity: 0, x: -100 }}
         animate={{ opacity: 1, x: 0 }}
@@ -40,9 +42,10 @@ const headerStyle = {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  height: "20vh",
+  height: "25vh",
   flexDirection: "column",
   textAlign: "center",
+  
 };
 
 const titleStyle = {
