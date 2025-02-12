@@ -1,0 +1,26 @@
+.btn{
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #efb5b5c6;
+    color: red;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid #ffffff;
+}
+
+.btn:hover{
+    border: 1px solid #ffffff;
+}
+
+.text{
+    display: flex;
+    gap: 3px;
+    justify-content: flex-end;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: end;
+    align-items: center;
+    margin-bottom: 10px;
+}
