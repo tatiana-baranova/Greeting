@@ -1,5 +1,5 @@
 .title{
-    color: white;
+    color: #fbd4d4;
     font-size: 30px;
     font-weight: 600;
     font-style: normal;
@@ -32,4 +32,8 @@
     justify-content: space-evenly;
     background-color: #efb5b5c6;
 }
-
+.wrap{
+    background-color: #ffffff;
+    width: 100%;
+    border-radius: 5px;
+}

@@ -5,7 +5,7 @@ import { ImInfinite } from 'react-icons/im';
 
 const InfoCard = () => {
     return (
-        <div>
+        <div className={s.wrap}>
             <h2 className={s.title}>За що я тебе Кохаю <GiLoveLetter size='30' color='red'/></h2> 
             <ul className={s.list}>
                 <li className={s.text}>Ти дуже мужній <GiStrongMan size='30' color='red'/></li>

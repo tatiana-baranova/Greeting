@@ -42,7 +42,7 @@ const headerStyle = {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  height: "25vh",
+  height: "20vh",
   flexDirection: "column",
   textAlign: "center",
   

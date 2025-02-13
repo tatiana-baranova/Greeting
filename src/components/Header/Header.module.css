@@ -4,12 +4,12 @@
 
 .header{
     position: absolute;
-    height: 40px;
-    background-color: #b50606c6;
+    height: 50px;
+    background-color: #c90909c6;
     top: 0;
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
-    border-bottom: 3px solid white;
+    /* border-bottom: 1px solid white; */
 }
