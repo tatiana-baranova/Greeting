@@ -34,7 +34,7 @@
     flex-wrap: nowrap;
     justify-content: space-between;
     background-color: #efb5b5c6;
-    padding: 0 6px;
+    padding: 0 6px 0 3px;
 }
 .wrap{
     background-color: #ffffff;
